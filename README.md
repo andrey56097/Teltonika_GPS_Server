@@ -16,9 +16,11 @@ var db_config = {
     insecureAuth: true
 };
 ```
-Also add to you mysql: 
+* Also add to you mysql: 
 
+```sh
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password'
+```
 
 * Run for installing all the project dependencies:
 ```sh
