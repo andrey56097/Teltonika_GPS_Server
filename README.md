@@ -32,7 +32,7 @@ npm install -g nodemon
 ```
 * Run:
 ```sh
-nodejs gps.js
+node gps.js
 ```
 
 > Note: Your socket listening port `5002`
