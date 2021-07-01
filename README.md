@@ -20,14 +20,17 @@ Also add to you mysql:
 
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password'
 
-* Run npm install for installing all the project dependencies
-* Run npm install -g nodemon
-* Run nodejs gps.js
-
+* Run for installing all the project dependencies:
 ```sh
 npm install
+```
+* Run:
+```sh
 npm install -g nodemon
+```
+* Run:
+```sh
 nodejs gps.js
 ```
 
-Your socket listening port 5002 
+> Note: Your socket listening port `5002`
