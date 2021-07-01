@@ -1,0 +1,10 @@
+{
+  "name": "Teltonika_GPS_Server (Node.js)",
+  "version": "0.1.1",
+  "author": "Andrey Bats",
+  "license": "BSD",
+  "devDependencies": {
+    "crc": "^3.2.1",
+    "mysql": "^2.5.4"
+  }
+}
