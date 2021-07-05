@@ -19,7 +19,7 @@ var db_config = {
 * Also add to you mysql: 
 
 ```sh
-ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password'
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'your_password'
 ```
 
 * Run for installing all the project dependencies:
